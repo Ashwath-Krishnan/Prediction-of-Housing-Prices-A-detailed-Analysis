@@ -1,0 +1,534 @@
+Area,No. of Bedrooms,Location,Hospital,MaintenanceStaff,Gymnasium,CarParking,SwimmingPool,Landscaped Gardens,JoggingTrack,RainWaterHarvesting,IndoorGames,ShoppingMall,Intercom,SportsFacility,ATM,ClubHouse,School,24X7Security,PowerBackup,Price
+1805,3,Begur,nearby,0,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,11000000
+1880,3,Begur,nearby,0,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,,11399999
+2180,4,Begur,nearby,0,1,yes,1,1,1,1,1,1,1,1,1,1,1,,1,13000000
+1850,3,Begur,nearby,0,1,yes,1,,1,1,1,1,,1,1,1,1,1,1,11299999
+null,,Kannur on Thanisandra Main Road,very far,0,1,no,1,1,1,1,0,0,1,0,0,0,0,1,0,4900000
+1215,2,Kannur on Thanisandra Main Road,very far,0,1,no,1,1,1,1,0,,1,0,,0,,1,0,
+1224,2,Kannur on Thanisandra Main Road,far,0,1,,1,1,1,,0,0,1,0,0,,0,1,0,5036000
+1350,2,Doddanekundi,very far,0,0,no,0,0,0,0,0,0,1,0,0,0,0,0,1,6736000
+1650,3,Doddanekundi,,,0,no,0,0,0,0,0,0,1,0,0,0,0,0,1,8233000
+1355,3,Doddanekundi,very far,0,0,no,0,0,0,0,,0,1,,0,,0,0,1,6761000
+1325,2,Doddanekundi,very far,0,0,no,0,0,0,0,0,0,1,0,0,0,0,0,1,6611000
+1260,2,Doddanekundi,far,0,0,no,0,,0,0,0,0,1,0,0,0,0,,1,6287000
+1290,2,Doddanekundi,far,0,0,no,0,0,0,,0,0,1,0,0,0,0,0,1,6437000
+1225,2,Doddanekundi,very far,0,,no,,0,0,0,0,0,1,0,0,0,0,0,,6112000
+1300,,Doddanekundi,very far,0,0,no,0,0,0,0,0,0,1,0,0,0,,0,1,6487000
+null,,Dasarahalli on Tumkur Road,far,0,1,yes,1,1,1,1,1,0,0,1,0,1,0,1,1,9412000
+1486,3,Dasarahalli on Tumkur Road,nearby,0,1,yes,1,1,1,1,1,,0,1,0,1,0,1,1,10500000
+1433,3,Dasarahalli on Tumkur Road,nearby,,1,yes,1,1,1,1,1,0,0,1,0,1,0,1,1,10200000
+1152,2,Kengeri,very far,1,1,yes,1,1,,1,1,0,1,1,,1,0,1,1,4722000
+1119,2,Kengeri,very far,1,1,yes,1,1,1,1,1,0,1,,0,1,0,1,1,4586000
+1118,2,Kengeri,very far,1,1,yes,,1,1,1,,0,1,1,0,1,0,1,1,4582000
+1656,3,Kengeri,very far,1,,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,6787000
+1629,3,Horamavu,far,0,1,yes,1,1,1,1,1,0,1,1,,1,0,1,1,9319000
+1237,2,Horamavu,very far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,6892000
+1275,2,Bommanahalli,far,1,1,yes,1,1,,0,1,0,1,1,0,1,0,1,1,9277000
+1615,,Bommanahalli,nearby,1,1,yes,1,1,1,0,1,0,1,1,0,1,0,1,1,11600000
+1515,3,Bommanahalli,nearby,1,1,yes,1,1,1,0,1,0,1,1,0,1,0,1,,
+1455,3,Bommanahalli,nearby,1,1,yes,,1,1,0,1,0,1,1,0,1,0,1,,10500000
+1360,3,Bommanahalli,far,1,1,yes,1,1,1,0,1,0,1,1,0,1,0,1,1,9859000
+null,3,Ramamurthy Nagar,very far,0,1,yes,0,0,1,1,0,0,1,,0,0,0,1,1,6973999
+1139,2,Ramamurthy Nagar,very far,0,1,,0,0,1,1,0,0,1,0,0,0,0,1,1,5705000
+1154,2,Ramamurthy Nagar,very far,0,1,yes,0,0,1,1,0,0,1,0,0,0,0,1,1,5772000
+1353,3,Ramamurthy Nagar,far,0,1,yes,0,0,1,1,0,0,1,0,0,0,0,1,1,6720999
+1362,3,Ramamurthy Nagar,far,0,1,yes,0,,1,1,0,0,1,0,0,0,0,1,1,6761000
+1133,2,Ramamurthy Nagar,,0,,yes,0,0,1,1,0,0,1,0,0,0,0,1,1,5677000
+1068,2,Ramamurthy Nagar,very far,0,1,yes,0,0,1,1,,,1,0,0,0,,1,1,5384000
+1540,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,,0,1,1,9141000
+1610,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,,0,0,1,0,0,0,0,1,1,9522000
+1715,3,Whitefield Hope Farm Junction,nearby,0,1,no,1,1,1,1,0,0,1,0,0,0,0,1,1,10000000
+1195,2,Whitefield Hope Farm Junction,far,,1,no,1,1,1,1,0,0,1,0,0,0,0,1,1,7211000
+1425,3,Whitefield Hope Farm Junction,far,0,1,no,,1,1,1,0,0,1,0,0,0,0,1,1,8514000
+1760,3,Whitefield Hope Farm Junction,nearby,0,1,no,1,1,1,,0,0,1,0,0,0,0,1,1,10300000
+null,2,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,0,0,,1,
+1235,,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,0,0,1,1,7429000
+1305,2,Whitefield Hope Farm Junction,far,0,1,no,1,,1,1,0,0,1,0,0,0,0,1,1,7809999
+660,1,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,3506000
+1120,2,Electronic City Phase 1,far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,6250000
+1120,2,Electronic City Phase 1,far,1,,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,6250000
+715,1,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,,3797999
+715,1,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,3797999
+910,2,Electronic City Phase 1,,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,
+910,2,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,5034000
+1430,3,Electronic City Phase 1,far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,7897000
+1430,3,Electronic City Phase 1,far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,7897000
+965,2,Electronic City Phase 1,very far,1,1,,1,1,1,1,1,1,1,0,1,1,0,1,1,5327000
+965,,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,5327000
+1500,3,Electronic City Phase 1,far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,8269000
+1500,3,Electronic City Phase 1,far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,8269000
+1065,2,Electronic City Phase 1,very far,1,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,5958000
+1065,2,Electronic City Phase 1,very far,,1,yes,1,1,1,1,1,1,1,0,1,1,0,1,1,5958000
+1273,2,Yelahanka,far,,1,yes,1,1,1,1,1,0,0,0,0,1,0,1,1,6900000
+null,3,Yelahanka,far,0,1,yes,1,1,1,1,1,0,0,0,0,1,0,1,1,9700000
+1304,2,Yelahanka,,0,1,yes,1,1,1,1,1,0,0,0,0,1,0,1,1,7300000
+1700,3,Anjanapura,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9180000
+1277,2,Carmelaram,far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,6986000
+1111,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,,1,1,6081000
+1443,3,Carmelaram,far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,7891000
+1109,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,6070000
+1089,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,5961000
+1544,3,Carmelaram,far,0,1,no,1,1,1,1,1,0,1,0,0,,0,1,,8442000
+1647,3,Carmelaram,far,0,,no,1,1,1,1,1,0,1,0,0,1,0,1,1,9003000
+1082,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,5923000
+1128,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,6174000
+1095,2,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,5994000
+1496,3,Carmelaram,far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,1,1,
+1401,3,Carmelaram,very far,0,1,no,1,1,1,1,1,0,1,0,0,1,0,,1,7662000
+1538,,Horamavu,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8763000
+null,3,Horamavu,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8957000
+1181,2,Horamavu,very far,0,1,,1,1,1,1,1,0,1,1,0,1,0,1,1,6581000
+1687,3,Horamavu,far,,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9640000
+1196,2,Horamavu,very far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,6664000
+1190,2,Horamavu,very far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,6631000
+1766,3,Horamavu,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,10000000
+1730,3,Horamavu,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9879000
+1532,3,Horamavu,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,,8529000
+1305,2,Jalahalli,far,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7252000
+1645,3,Jalahalli,far,0,,no,1,1,0,1,1,1,0,0,0,0,1,1,0,9037000
+1315,2,Jalahalli,,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7298000
+1950,3,Jalahalli,nearby,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,10400000
+1750,3,Jalahalli,far,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,9520000
+null,2,Jalahalli,far,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7229000
+1830,3,Jalahalli,far,0,,no,1,1,0,1,1,1,0,0,0,0,1,1,0,9887000
+1935,3,Jalahalli,nearby,0,1,no,1,1,0,1,1,1,0,0,0,0,,1,0,10300000
+1285,2,Jalahalli,far,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7159999
+2010,3,Jalahalli,nearby,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,10700000
+1615,3,Jalahalli,,0,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,8900000
+1720,3,Jalahalli,far,0,1,no,1,1,0,1,1,1,0,0,0,,1,1,0,9382000
+1325,2,Jalahalli,far,,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7344000
+1270,2,Jalahalli,far,,1,no,1,1,0,1,1,1,0,0,0,0,1,1,0,7091000
+1320,3,Kasavanahalli,far,0,1,,1,0,0,0,1,0,0,0,0,1,0,0,1,6279000
+1100,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5306000
+1405,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,
+1075,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5195000
+1140,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5483000
+1150,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5527000
+1350,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,6412000
+1265,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,6036000
+1015,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,4930000
+1395,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,,1,6611000
+null,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5173000
+1270,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,6058000
+1320,3,Kasavanahalli,very far,,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,,6279000
+1050,2,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5085000
+1355,3,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,6434000
+1090,2,Kasavanahalli,far,0,1,yes,1,0,0,0,1,0,0,0,0,1,0,0,1,5262000
+1485,,Whitefield Hope Farm Junction,far,0,,no,1,1,1,1,0,0,1,0,0,0,0,0,1,6681999
+1450,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,,0,0,1,
+1555,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,0,0,0,1,6997000
+1355,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,0,0,0,1,6097000
+1360,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,1,0,0,1,0,0,0,,0,1,6120000
+1365,3,Whitefield Hope Farm Junction,very far,,1,,1,1,1,1,0,0,1,0,0,0,0,0,1,6142000
+1495,3,Whitefield Hope Farm Junction,,0,1,no,1,1,1,1,0,0,1,0,0,0,0,0,1,6727000
+1395,3,Whitefield Hope Farm Junction,very far,0,1,no,1,1,1,1,,,,0,0,0,0,0,1,6277000
+1500,3,Whitefield Hope Farm Junction,very far,0,1,no,,1,1,1,0,0,1,,0,0,0,0,1,6750000
+1435,3,Whitefield Hope Farm Junction,very far,0,1,no,1,,1,1,0,0,1,0,0,0,0,0,1,6456999
+1310,3,Bommasandra,very far,0,,yes,1,1,1,1,1,0,0,0,0,0,0,1,1,5240000
+1030,2,Bommasandra,very far,0,1,yes,1,1,,1,1,0,0,0,,,0,1,1,4120000
+1275,3,Bellandur,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,1,1,7012000
+1490,3,Bellandur,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,1,1,
+1706,3,RR Nagar,far,0,1,yes,1,1,1,1,0,0,0,0,1,1,0,0,1,8050000
+1258,2,RR Nagar,very far,0,1,yes,,1,1,,0,0,0,0,1,1,0,0,1,5900000
+1723,3,RR Nagar,far,0,1,yes,1,1,1,1,0,0,0,0,1,1,0,0,1,8100000
+1369,2,RR Nagar,very far,0,1,yes,1,1,1,1,0,0,0,0,1,1,0,0,1,6400000
+null,2,RR Nagar,very far,0,1,yes,1,1,1,1,0,0,0,0,1,1,0,0,1,6275000
+2000,3,Whitefield Hope Farm Junction,nearby,0,1,no,1,1,1,0,0,0,1,0,0,1,0,1,1,14400000
+1900,3,Whitefield Hope Farm Junction,far,0,1,no,1,1,1,0,0,0,,,0,1,0,1,1,13700000
+1560,3,Whitefield Hope Farm Junction,nearby,0,1,no,1,1,1,0,0,0,1,0,0,1,0,1,1,11399999
+1097,2,Begur,very far,0,1,no,1,,1,1,1,0,1,1,0,1,0,1,1,4500000
+1310,3,Bommasandra,very far,,1,yes,,1,,,1,,0,0,0,0,0,1,1,5240000
+1030,2,Bommasandra,very far,0,1,yes,1,1,1,1,1,0,0,0,,0,0,1,1,4120000
+3300,4,JP Nagar Phase 1,nearby,1,1,no,1,1,1,1,1,0,1,1,0,1,0,1,1,29600000
+1216,2,Varthur,nearby,0,1,,1,1,1,1,1,1,0,0,0,1,1,1,,8954000
+1195,2,Varthur,nearby,0,1,yes,1,1,1,1,,1,0,0,0,1,1,1,1,8800000
+2321,3,Varthur,nearby,0,1,yes,1,1,1,1,1,1,0,0,0,1,1,1,1,15400000
+1655,3,Varthur,nearby,0,1,yes,1,1,1,1,1,1,0,0,0,1,,,1,11000000
+2172,,Kannur on Thanisandra Main Road,,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,1,1,9122000
+1505,3,Uttarahalli,very far,0,1,no,1,,1,0,,0,1,0,0,0,0,0,1,
+1002,2,Uttarahalli,very far,0,1,no,1,1,1,0,0,,1,0,0,0,0,0,1,3507000
+null,3,Uttarahalli,far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,4816000
+1232,2,Uttarahalli,very far,0,1,no,,1,1,,0,0,1,0,0,0,0,0,1,4312000
+1513,3,Uttarahalli,far,0,1,no,1,1,1,0,0,0,,,0,0,0,0,1,5295000
+1056,2,Uttarahalli,very far,0,,no,1,1,1,0,0,0,1,0,0,0,0,0,1,3696000
+1183,2,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,4140000
+1095,2,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,3832000
+965,2,Uttarahalli,nearby,0,1,no,1,1,,0,0,0,1,0,,0,0,0,1,3377000
+1303,3,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,
+1433,3,Uttarahalli,far,,1,no,1,1,1,0,0,0,1,0,0,,0,0,1,5015000
+1077,2,Uttarahalli,very far,0,1,no,1,1,1,0,,0,1,,0,0,0,0,1,3769000
+985,2,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,3447000
+1416,3,Uttarahalli,very far,0,1,no,1,,1,0,0,0,1,0,0,0,0,0,1,4956000
+null,3,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,5323000
+1130,2,Uttarahalli,very far,0,1,no,1,1,1,,0,,1,0,0,0,0,0,1,3954999
+977,2,Uttarahalli,nearby,0,1,no,1,1,1,0,0,0,1,0,0,0,0,0,1,3419000
+1529,3,Uttarahalli,very far,0,1,no,1,1,1,0,0,0,1,0,,0,0,0,1,5351000
+1267,3,Uttarahalli,very far,0,,no,1,1,1,0,0,0,1,,0,0,0,0,1,4434000
+1866,3,Anagalapura Near Hennur Main Road,far,0,1,yes,,1,1,1,1,0,,1,0,1,0,1,1,7837000
+2235,3,Anagalapura Near Hennur Main Road,,0,1,yes,1,1,,1,,0,1,1,0,1,0,1,1,9834000
+1976,3,Anagalapura Near Hennur Main Road,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8298999
+2182,3,Anagalapura Near Hennur Main Road,far,0,1,,1,1,1,1,1,0,1,1,0,1,0,1,1,8728000
+1725,3,Hosa Road,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9453000
+1795,2,Sahakar Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,15000000
+1000,1,Sahakar Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,,1,1,8900000
+1740,2,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,,1,,
+1490,2,Sahakar Nagar,far,0,1,yes,1,1,1,,1,0,1,1,0,1,0,1,1,12700000
+1320,3,Sahakar Nagar,far,0,1,yes,1,,1,1,1,0,,1,,1,0,1,1,12500000
+2330,4,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,,1,,0,1,0,1,1,20099999
+2165,3,Sahakar Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,,18800000
+1645,2,Sahakar Nagar,nearby,,1,yes,,1,,1,1,0,1,1,0,1,0,,1,13700000
+1985,3,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,18900000
+null,3,Avalahalli Off Sarjapur Road,far,1,1,yes,1,1,1,0,,1,1,1,1,1,0,1,1,8500000
+2225,3,Sarjapur Road Wipro To Railway Crossing,nearby,0,1,yes,1,0,1,0,0,0,1,1,0,1,0,1,1,12000000
+1541,3,Hosa Road,far,0,1,no,1,0,1,0,0,0,1,1,0,1,0,1,1,9000000
+1515,3,Varthur,nearby,0,1,no,1,0,0,,0,0,1,1,0,1,0,0,1,9300000
+1690,3,Uttarahalli,nearby,0,1,no,1,1,1,1,1,0,1,1,0,1,0,1,1,11000000
+2225,3,Sarjapur Road Wipro To Railway Crossing,nearby,0,1,yes,1,0,1,0,0,0,1,0,0,1,0,1,1,12000000
+1770,3,Bilekahalli,nearby,0,1,yes,1,,1,1,1,0,1,1,0,1,0,1,1,
+3012,4,Bilekahalli,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,,0,1,1,29300000
+2370,3,Bilekahalli,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,22799999
+700,1,R T  Nagar,,0,0,no,0,0,0,0,0,0,0,,0,0,0,0,0,3200000
+700,1,R T  Nagar,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,3200000
+1335,2,JP Nagar Phase 7,far,0,1,no,0,0,0,0,0,0,1,0,0,1,0,0,1,11000000
+1690,3,Subramanyapura,nearby,0,1,no,,0,0,0,0,0,,1,0,1,0,0,1,9800000
+4282,4,JP Nagar Phase 4,nearby,0,1,yes,1,1,1,1,1,0,1,0,,1,0,1,1,42500000
+1500,3,Sahakar Nagar,nearby,1,1,yes,1,0,1,1,1,0,1,1,0,1,0,1,1,13500000
+1880,3,JP Nagar Phase 7,nearby,0,1,no,0,0,0,0,0,0,1,0,0,1,0,0,1,15600000
+1985,3,Sahakar Nagar,nearby,,1,,1,1,1,1,1,0,1,0,0,1,0,1,1,18900000
+1795,2,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,15400000
+null,,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,12300000
+1042,2,JP Nagar Phase 8,far,0,1,yes,1,1,1,1,1,0,0,1,0,1,,1,1,6845999
+1408,3,JP Nagar Phase 8,far,0,1,yes,1,1,1,1,1,0,0,1,0,1,0,1,1,9173000
+1455,3,JP Nagar Phase 8,far,0,1,yes,1,1,1,1,1,0,0,1,0,1,0,1,1,9471000
+1105,2,JP Nagar Phase 8,far,0,1,yes,1,1,1,1,1,0,0,1,0,1,0,1,1,7247000
+1120,2,Amruthahalli,very far,0,0,no,0,0,0,0,0,0,1,0,0,,0,0,1,5599000
+1345,1,Sahakar Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,11800000
+1107,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,4815000
+1122,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,,4880000
+1161,2,Horamavu,very far,0,,no,0,0,0,1,0,0,1,0,0,0,0,1,1,
+1062,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,4619000
+1100,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,4785000
+1143,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,4972000
+1089,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,,1,4737000
+1116,2,Horamavu,very far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,4854000
+3033,4,Banashankari,,0,1,yes,1,1,1,1,1,0,,1,0,1,0,1,1,28300000
+2378,3,Banashankari,nearby,0,1,yes,,1,1,1,1,0,1,1,0,1,0,1,1,21400000
+2522,3,Banashankari,nearby,0,1,yes,1,,1,,1,0,1,1,,1,0,1,1,
+3205,4,Banashankari,nearby,0,1,yes,1,1,1,1,1,0,1,,0,1,0,1,1,29900000
+1376,2,RR Nagar,far,,1,yes,1,1,1,1,,0,1,1,0,,0,1,1,9200000
+null,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8000000
+1373,2,RR Nagar,nearby,0,1,,1,1,1,1,1,0,1,1,0,1,0,1,1,9200000
+1168,2,RR Nagar,far,0,1,yes,1,1,,1,1,0,1,1,0,1,0,1,1,8000000
+1168,2,RR Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8000000
+1376,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9300000
+1168,2,RR Nagar,far,0,1,yes,1,1,1,1,,0,1,,0,1,,1,1,7900000
+1376,2,RR Nagar,nearby,0,1,yes,1,1,1,1,1,0,,1,0,1,0,1,1,9200000
+1373,2,RR Nagar,nearby,0,1,yes,,1,1,1,1,0,1,1,0,1,0,1,1,9100000
+1373,2,RR Nagar,far,0,1,yes,1,1,,1,1,0,1,0,0,1,0,1,1,9000000
+1168,2,RR Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,7900000
+1160,2,RR Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,7900000
+1168,2,RR Nagar,far,0,1,yes,1,1,1,,1,0,1,1,0,1,0,1,1,8000000
+1160,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,,0,1,0,1,1,
+1373,2,RR Nagar,nearby,0,1,yes,1,,1,1,1,,1,1,,1,0,1,1,9200000
+1376,2,RR Nagar,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9100000
+1373,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9100000
+1373,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,9000000
+1168,2,RR Nagar,far,,1,yes,1,1,1,1,1,0,1,1,0,1,0,,1,7900000
+1373,2,RR Nagar,far,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,8800000
+1140,3,Kengeri,very far,0,1,yes,1,1,0,0,0,0,1,0,0,0,0,0,1,3990000
+1149,3,Kengeri,very far,0,1,yes,1,1,0,0,0,0,1,0,0,0,0,0,1,4021000
+1168,3,Kengeri,very far,0,1,yes,1,1,0,0,0,0,1,0,0,0,0,0,1,4088000
+1275,2,Begur,,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,9060000
+1210,2,Begur,nearby,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,8644000
+1240,2,Begur,far,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,
+1450,,Begur,nearby,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,10200000
+1192,2,Begur,far,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,8528000
+1190,2,Begur,far,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,8516000
+1235,2,Begur,far,0,0,no,0,0,0,1,0,0,1,0,0,0,0,1,0,8804000
+1400,3,Begur,far,0,0,no,0,0,0,1,0,0,1,0,0,,0,1,0,9910000
+1606,3,Ramamurthy Nagar,very far,0,1,,0,0,0,1,0,0,1,0,0,0,,1,1,7634000
+1239,2,Ramamurthy Nagar,very far,0,,no,,0,0,1,,0,1,0,0,0,0,1,1,5970000
+1615,3,Ramamurthy Nagar,far,0,1,no,0,,,1,0,0,,0,0,0,0,1,1,7675000
+1180,2,Ramamurthy Nagar,very far,0,1,no,0,0,0,1,0,,1,0,,0,0,1,1,5702000
+null,2,Ramamurthy Nagar,far,0,1,no,0,0,0,1,0,0,1,0,0,0,0,1,1,6210000
+900,2,Attibele,very far,,1,no,1,0,1,0,1,0,1,1,0,,0,1,1,2520000
+1180,3,Attibele,very far,0,1,no,1,0,1,,1,0,1,1,0,1,0,1,,3304000
+1075,3,Attibele,very far,0,1,no,1,0,1,0,1,0,1,,0,1,0,1,1,3010000
+1000,2,Attibele,very far,0,1,no,1,0,1,0,1,0,1,1,0,1,0,1,1,2800000
+880,,Attibele,very far,0,1,no,1,0,1,0,1,0,1,1,0,1,0,1,1,2464000
+1185,2,Kadugodi,very far,0,1,no,1,1,1,0,1,,1,0,0,0,0,1,1,5557000
+2540,3,Kadugodi,nearby,0,1,no,1,,,0,,0,1,0,0,0,0,1,1,11900000
+1650,3,Kadugodi,nearby,0,1,no,1,1,1,0,1,0,1,0,,0,0,1,1,7738000
+1355,2,Kadugodi,very far,0,1,no,,1,1,,1,0,1,0,0,0,0,1,1,
+600,1,Kadugodi,very far,0,1,no,1,1,1,0,1,0,1,0,0,0,0,,1,2814000
+1165,2,Kadugodi,very far,0,1,no,1,1,1,0,1,0,1,0,0,0,0,1,1,5463000
+1590,3,Kadugodi,,0,1,no,1,1,1,0,1,0,1,0,0,0,0,1,1,7456999
+1155,2,Kadugodi,very far,0,1,no,1,1,1,0,1,0,1,0,0,0,0,1,1,5416000
+2495,3,Kadugodi,nearby,0,1,no,1,1,1,0,1,0,,0,0,0,0,1,1,11700000
+1195,2,Kadugodi,very far,0,1,no,1,,,0,,0,1,0,0,0,0,1,1,5604000
+1530,3,Kadugodi,very far,0,1,no,,1,1,0,1,,1,,0,0,0,1,1,7175000
+1600,3,Kadugodi,very far,0,1,no,1,1,1,,1,0,1,0,0,0,0,1,1,
+1200,2,Kadugodi,very far,0,1,no,1,1,1,0,1,0,1,0,0,0,0,1,1,5628000
+884,2,Nagarbhavi,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,5200000
+884,2,Nagarbhavi,very far,0,1,,1,0,0,0,0,0,0,1,0,1,,0,1,5200000
+1120,2,Kodigehalli,very far,0,0,yes,0,0,0,1,0,0,1,0,0,0,0,1,1,6385000
+1005,2,Banaswadi,very far,,1,yes,1,0,1,0,0,0,0,1,0,1,0,1,0,6531999
+1455,3,Banaswadi,far,1,1,yes,1,0,1,0,0,0,0,1,0,1,0,1,0,9457000
+1390,3,Banaswadi,far,1,1,yes,1,0,1,0,0,0,0,1,0,1,0,1,0,9035000
+1025,2,Banaswadi,very far,1,1,yes,1,0,1,0,0,0,0,1,0,1,0,1,0,6662000
+1105,2,Banaswadi,very far,1,1,yes,1,0,1,0,0,0,0,1,0,1,0,1,0,7181999
+1135,2,Banaswadi,far,1,1,yes,1,0,1,0,0,0,0,1,0,1,0,,0,7377000
+1425,3,Whitefield Hope Farm Junction,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,1,0,7125000
+1125,2,Kodigehalli,,0,0,yes,0,0,0,1,0,0,1,1,0,1,0,1,,
+1125,2,Kodigehalli,very far,0,0,yes,0,0,0,1,0,0,1,0,0,0,0,1,1,6459000
+2021,3,ITPL,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,,0,0,1,11800000
+null,3,ITPL,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,11500000
+1354,2,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,7920000
+1845,3,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,10700000
+1823,3,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,10600000
+1447,2,ITPL,far,0,,yes,1,1,1,1,1,0,1,0,0,1,0,,1,8464000
+1399,2,ITPL,far,,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,8184000
+1735,3,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,10100000
+1398,,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,8178000
+1940,3,ITPL,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,11299999
+1743,3,ITPL,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,10100000
+1417,2,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,8289000
+1343,2,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,7856000
+1411,2,ITPL,far,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,
+1337,2,ITPL,far,0,1,yes,1,1,,1,1,0,,,0,1,0,0,1,7820999
+2010,3,ITPL,nearby,0,1,yes,,1,1,1,1,,1,0,,1,,0,1,11700000
+1797,3,ITPL,nearby,0,1,,1,1,1,1,1,0,1,0,0,1,0,0,1,10500000
+1768,3,ITPL,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,0,1,10300000
+990,2,JP Nagar Phase 8,,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,4455000
+1090,2,JP Nagar Phase 8,very far,0,0,no,0,,0,,,0,0,0,0,0,0,0,0,4905000
+1250,2,Vidyaranyapura,very far,0,0,yes,0,0,0,1,0,0,1,0,0,0,0,1,1,5550000
+1012,2,Vidyaranyapura,very far,0,0,yes,0,0,0,1,0,0,1,0,,0,0,1,1,4500000
+1630,3,Narayanapura on Hennur Main Road,nearby,0,1,no,1,0,1,0,0,0,0,1,0,1,0,0,1,13000000
+1082,2,Kumbalgodu,far,0,1,yes,1,1,1,1,1,0,,1,0,1,0,1,1,5500000
+1987,3,JP Nagar Phase 7,nearby,0,1,no,1,1,0,1,1,0,0,0,0,1,0,0,1,20700000
+1333,,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,,1,1,1,1,1,3999000
+1174,3,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,3522000
+958,2,Sarjapur,very far,1,1,yes,1,1,1,,1,1,1,1,1,,1,1,1,2874000
+1473,3,Attibele,very far,0,1,yes,1,,1,1,1,0,,1,,1,0,1,,3682000
+1371,3,Attibele,very far,0,1,yes,1,1,1,1,1,0,0,1,1,1,0,,1,3427000
+null,3,Attibele,very far,0,1,yes,1,1,1,1,1,0,0,1,1,1,0,1,1,3932000
+1529,3,Attibele,very far,0,1,yes,1,1,1,1,,0,0,1,1,1,0,1,1,
+995,2,Attibele,very far,0,1,yes,,1,1,1,1,0,0,1,1,1,0,1,1,2487000
+1240,3,JP Nagar Phase 8,very far,0,0,no,0,0,,0,0,0,0,,0,0,0,0,0,5580000
+1140,3,JP Nagar Phase 8,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,5130000
+884,2,Nagarbhavi,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,4910000
+884,2,Nagarbhavi,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,4910000
+1241,3,Electronic City Phase 1,far,0,1,no,1,0,0,0,0,0,1,1,0,0,0,0,1,4342000
+954,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,,0,1,3338000
+737,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,2578000
+976,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,
+890,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,0,0,0,1,3114000
+823,2,Electronic City Phase 1,very far,0,1,no,0,0,0,0,0,0,,1,,0,0,0,1,2879000
+1282,3,Electronic City Phase 1,far,0,1,,1,0,0,0,0,0,1,1,0,1,0,0,1,4485000
+893,2,Electronic City Phase 1,,0,1,no,1,0,0,0,,,1,1,0,1,0,0,1,3124000
+1347,3,Electronic City Phase 1,far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,
+1291,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,4517000
+1353,3,Electronic City Phase 1,far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,4734000
+903,2,Electronic City Phase 1,very far,0,,no,1,0,,0,0,0,1,1,0,1,0,0,1,3159000
+1206,3,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,4219000
+1353,,Electronic City Phase 1,far,0,1,no,,0,0,,0,0,1,,0,1,0,0,1,4734000
+743,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,2578000
+1042,2,Electronic City Phase 1,very far,,1,no,1,0,0,0,0,,1,1,0,1,0,0,1,3645000
+1241,2,Electronic City Phase 1,very far,0,1,no,1,,0,0,0,0,1,1,0,1,0,0,1,4342000
+644,1,Electronic City Phase 1,very far,0,1,no,1,0,0,0,,0,1,0,,,0,0,1,2253000
+827,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,2893000
+747,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,2614000
+2000,3,Nagarbhavi,nearby,0,0,no,0,0,,0,0,0,1,0,0,0,0,0,1,10500000
+1352,3,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,,1,0,0,1,0,0,,4867000
+1352,,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,,0,0,0,,1,
+737,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,0,0,0,0,0,1,2653000
+795,2,Electronic City Phase 1,very far,0,1,no,,0,0,0,,0,1,0,0,0,0,0,1,2862000
+954,2,Electronic City Phase 1,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,3339000
+823,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,0,0,1,0,0,1,2962000
+null,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,0,0,1,0,0,1,2880000
+1367,3,JP Nagar Phase 3,,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7184000
+1098,2,JP Nagar Phase 3,very far,0,1,no,1,,1,,1,0,0,0,0,0,0,1,1,5858000
+1470,3,JP Nagar Phase 3,far,0,1,,1,1,1,1,1,0,0,0,0,0,0,1,1,
+1211,3,JP Nagar Phase 3,very far,0,1,no,,1,1,1,1,0,0,0,0,0,,1,1,6415000
+1077,2,JP Nagar Phase 3,very far,0,1,no,1,1,,1,,0,0,0,0,0,0,1,1,5752000
+1206,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6388000
+1346,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7078000
+1087,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,5804000
+2185,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,11200000
+1453,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,,0,0,1,1,7608000
+1200,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6361000
+1572,3,JP Nagar Phase 3,far,0,1,no,,1,1,1,1,0,,0,0,0,0,1,1,8192000
+1179,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,,1,,0,,0,0,0,1,1,6255000
+644,1,Electronic City Phase 1,very far,0,1,no,1,,0,0,,0,1,1,0,1,0,0,1,
+644,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,0,0,1,0,0,1,2254000
+644,1,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,0,0,1,0,0,1,2254000
+826,2,Electronic City Phase 1,very far,0,1,no,1,0,,0,0,0,1,0,0,1,0,0,1,2973000
+1353,3,Electronic City Phase 1,very far,0,1,no,1,0,0,,0,0,1,0,0,0,0,0,1,4870000
+795,,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,,1,0,1,0,0,1,2781000
+1347,3,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,,0,0,1,4713000
+747,2,Electronic City Phase 1,very far,0,1,no,1,0,,0,0,0,1,1,0,0,0,0,,2613000
+1304,3,Electronic City Phase 1,,0,1,no,1,0,0,0,0,0,1,,0,1,0,0,1,4562000
+1367,2,Electronic City Phase 1,very far,0,1,no,,0,0,0,0,0,1,1,0,1,0,0,1,
+1241,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,,1,1,,1,0,0,1,4342000
+823,2,Electronic City Phase 1,very far,0,1,no,1,0,0,0,0,0,1,1,0,0,0,,1,2879000
+1370,3,Electronic City Phase 2,very far,0,1,no,0,1,1,,0,0,1,0,0,1,0,1,1,5045000
+1175,2,Electronic City Phase 2,very far,0,1,,,,1,1,0,0,1,0,0,1,0,1,1,4362000
+1500,3,Electronic City Phase 2,very far,0,1,no,0,1,1,1,,0,1,0,0,1,,1,1,5500000
+1233,2,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,1,0,0,1,0,1,1,4565000
+1100,2,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,,0,,1,0,1,1,4000000
+1300,,Electronic City Phase 2,very far,0,1,no,0,1,1,1,,0,1,0,0,1,0,1,1,4800000
+1210,2,Electronic City Phase 2,very far,0,1,no,0,,1,1,0,0,1,0,0,1,0,1,1,4485000
+1075,2,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,1,0,0,1,0,1,1,
+1220,2,Electronic City Phase 2,very far,0,,no,0,1,1,1,0,0,1,0,0,1,0,1,1,4520000
+1155,2,Electronic City Phase 2,very far,0,1,no,,1,1,1,0,0,1,,0,1,0,1,1,4292000
+null,3,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,1,0,0,1,0,1,1,4730000
+1350,3,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,,1,0,0,1,0,1,1,4975000
+1330,3,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,1,0,0,1,0,1,1,4905000
+1135,2,Electronic City Phase 2,very far,0,1,no,0,1,1,,0,0,1,0,0,1,0,1,1,4222000
+1070,2,Electronic City Phase 2,very far,0,1,no,0,1,1,1,0,0,1,0,0,1,0,1,1,
+2019,3,Kannur on Thanisandra Main Road,very far,0,1,yes,1,1,1,1,,0,1,0,,1,0,1,1,8076000
+1005,2,Nagarbhavi,very far,0,0,no,0,0,0,0,0,0,0,0,0,0,0,0,0,4700000
+1193,3,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,3579000
+1124,2,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,3372000
+974,2,Sarjapur,very far,1,1,yes,1,1,1,1,,1,,1,1,1,1,1,1,2922000
+948,2,Sarjapur,,1,1,yes,1,1,,1,1,1,1,1,1,1,1,1,1,2844000
+967,2,Sarjapur,very far,1,1,yes,,1,1,1,1,1,1,,1,1,1,1,1,2901000
+940,2,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,2820000
+1486,3,Sarjapur,very far,1,1,yes,1,1,1,,1,,1,,1,1,1,1,1,4458000
+1161,3,Sarjapur,very far,1,1,yes,1,,1,1,1,1,1,1,,,1,1,1,3483000
+1233,3,Sarjapur,very far,1,1,,1,1,1,1,1,,1,1,1,1,1,1,,3699000
+1302,3,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,
+963,2,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,2889000
+1143,2,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,3429000
+1388,3,Sarjapur,very far,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,4164000
+1128,2,Sarjapur,very far,1,1,yes,1,1,,1,1,1,1,1,1,,1,1,1,3384000
+1174,2,Attibele,very far,,1,yes,1,1,1,1,1,0,0,1,1,1,0,1,1,2935000
+1639,3,Attibele,very far,0,1,yes,1,1,1,1,1,0,,1,,1,,,1,4097000
+1281,2,Attibele,very far,0,1,yes,1,1,1,1,1,0,0,1,1,1,0,1,1,3202000
+1147,2,Attibele,very far,0,1,yes,1,1,1,1,1,0,0,1,1,1,0,1,1,2867000
+1365,,Attibele,very far,0,1,yes,1,,1,1,1,0,0,1,1,1,0,1,1,3411999
+870,2,Bommasandra,very far,0,1,no,,0,0,0,,0,1,1,0,1,0,0,1,2436000
+1000,2,Bommasandra,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,
+null,3,Chandapura,,0,1,no,1,0,0,0,0,,1,1,0,1,0,0,1,3010000
+900,2,Chandapura,very far,0,1,no,1,0,0,0,0,0,1,,0,1,0,0,1,2520000
+1085,2,Chandapura,very far,0,1,no,1,0,0,0,0,0,1,1,0,1,0,0,1,3038000
+1075,3,Attibele,very far,0,1,no,1,0,1,0,1,,1,,0,1,0,1,1,3010000
+710,1,Ramamurthy Nagar,very far,0,0,no,0,,0,,0,0,1,0,,0,0,0,1,3177000
+2674,3,Kannur on Thanisandra Main Road,nearby,0,1,yes,1,1,1,1,1,0,1,0,0,1,0,1,1,10600000
+1195,2,Bellandur,far,0,1,no,0,1,,1,,0,1,0,0,0,0,1,1,7200000
+2360,3,Thanisandra,nearby,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,20400000
+2307,3,Thanisandra,nearby,1,1,yes,1,1,1,1,1,1,1,1,1,1,1,1,1,17600000
+2127,3,JP Nagar Phase 7,nearby,0,1,no,1,1,0,1,1,0,,1,0,1,0,0,1,20200000
+1232,2,Narayanapura on Hennur Main Road,nearby,0,1,no,1,0,1,0,0,0,1,1,0,1,0,0,1,10200000
+1040,2,Krishnarajapura,far,1,1,,1,1,1,1,0,0,1,1,0,1,0,1,1,4002000
+1187,2,Krishnarajapura,far,1,,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4568000
+1054,2,Krishnarajapura,far,1,1,yes,1,1,1,1,0,0,1,1,,1,0,1,1,4056000
+1118,2,Krishnarajapura,far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4303000
+1117,2,Krishnarajapura,,1,1,yes,,1,1,1,0,0,1,1,0,1,0,1,1,4299000
+1180,2,Krishnarajapura,far,1,1,no,1,1,,1,0,0,1,1,0,1,0,1,1,
+1373,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,,7211000
+1109,2,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,,0,0,0,0,0,1,1,5910000
+1415,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,,0,0,0,1,1,7423000
+1782,3,JP Nagar Phase 3,nearby,0,1,no,1,,1,,1,0,0,0,0,0,0,1,1,9227000
+1383,,JP Nagar Phase 3,far,0,1,no,,1,1,1,1,0,,0,0,0,0,1,1,7263000
+1227,2,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,,0,1,1,6494000
+1626,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,8458000
+1755,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,,1,1,9094000
+1502,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7847000
+1233,2,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,
+1094,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,,1,4210000
+1090,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4195000
+null,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4226000
+1205,2,Krishnarajapura,,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4638000
+1221,3,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,,0,1,0,1,1,4699000
+1150,2,Krishnarajapura,very far,1,1,,1,1,1,1,0,0,1,1,0,1,0,1,1,4426000
+1020,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,3925000
+1129,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,,1,1,0,1,0,1,1,4345000
+1062,2,Krishnarajapura,very far,1,1,yes,1,1,1,,0,0,1,1,,1,0,1,1,
+1059,2,Krishnarajapura,very far,1,1,yes,1,,1,1,0,0,1,1,0,1,0,1,1,4076000
+1058,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4072000
+1199,2,Krishnarajapura,very far,1,1,yes,1,1,1,1,0,0,1,1,0,1,0,1,1,4614000
+1448,3,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,4054000
+1250,3,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,3500000
+1488,3,Jigani,very far,0,1,yes,1,1,,0,,0,0,0,0,1,0,1,,4165999
+1096,,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,3068000
+1491,3,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,
+1090,2,Jigani,very far,,1,yes,,1,1,0,0,0,0,0,0,1,0,1,1,3052000
+1102,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,,0,0,1,0,1,1,3085000
+1166,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,3264000
+920,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,,0,1,0,1,1,2576000
+1142,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,3197000
+1551,3,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,4342000
+1135,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,3178000
+1505,3,Marsur,,0,,yes,1,1,1,0,1,0,1,0,,1,,0,1,3913000
+1370,3,Marsur,very far,0,1,yes,1,1,1,0,1,0,1,0,0,,0,0,1,3561999
+1533,3,Jigani,very far,0,1,,1,1,1,0,0,0,0,0,0,1,0,1,1,
+1115,,Marsur,very far,0,1,yes,1,1,1,0,1,0,1,0,0,1,0,,1,2899000
+1125,2,Marsur,very far,0,1,yes,1,1,1,0,1,0,,0,0,1,0,0,1,2925000
+1066,2,Jigani,very far,0,1,yes,1,1,1,0,0,0,0,0,0,1,0,1,1,2984000
+1465,3,Marsur,very far,0,1,yes,1,1,1,0,1,0,1,0,0,1,0,0,1,3809000
+1675,3,Krishnarajapura,far,0,0,yes,0,0,0,0,0,0,1,0,0,0,0,0,1,
+null,2,Krishnarajapura,far,0,0,yes,0,0,0,0,,0,1,0,0,0,0,0,1,4958000
+1240,2,Krishnarajapura,far,0,0,yes,0,0,0,0,0,0,1,0,0,0,0,0,1,4958000
+1220,2,Krishnarajapura,far,,0,yes,0,,0,0,0,0,1,0,0,0,0,0,1,4878000
+1220,2,Krishnarajapura,far,0,0,yes,0,0,0,0,0,0,1,,0,0,0,0,1,4878000
+1225,2,Krishnarajapura,very far,0,0,yes,0,0,0,0,0,0,1,0,0,0,0,0,1,4898000
+1225,2,Krishnarajapura,very far,0,0,yes,0,0,0,0,0,0,1,0,0,0,0,0,1,4898000
+1270,2,Krishnarajapura,far,0,0,yes,0,0,0,,0,,1,0,0,0,0,0,1,5078000
+1270,2,Krishnarajapura,far,0,0,yes,0,0,0,0,0,0,1,0,0,0,0,0,1,5078000
+1075,2,Kasavanahalli,very far,0,1,yes,,0,0,0,1,0,1,1,,1,0,0,1,4500000
+1075,3,Attibele,very far,0,1,no,0,0,,0,1,0,1,0,0,1,0,1,1,3010000
+870,2,Attibele,very far,0,1,no,0,0,1,0,1,0,1,0,0,1,0,1,1,2436000
+1000,2,Attibele,very far,0,1,no,0,0,1,0,1,0,1,0,0,1,0,1,1,2800000
+1210,3,Attibele,very far,0,1,no,0,0,1,0,1,0,1,0,0,1,0,1,1,3388000
+900,2,Attibele,,0,1,no,0,0,1,0,1,0,1,0,0,1,0,1,1,
+1085,2,Attibele,very far,0,1,no,0,0,1,0,1,0,1,0,0,1,0,1,1,3038000
+880,2,Attibele,very far,,1,,0,0,1,0,1,0,1,0,0,1,0,1,1,2464000
+1075,2,Kasavanahalli,very far,0,1,yes,1,0,0,0,1,0,1,1,0,1,0,0,1,4500000
+1414,3,Anagalapura Near Hennur Main Road,very far,0,1,no,0,1,0,1,0,0,1,0,0,0,0,0,1,5797000
+1120,2,Varthur,very far,0,1,no,1,0,0,0,0,0,1,1,0,0,0,0,1,4928000
+1185,3,Bommasandra,very far,0,1,no,1,0,0,0,0,0,1,1,0,0,,,1,4147000
+1000,2,Anagalapura Near Hennur Main Road,very far,0,1,no,0,1,0,1,0,0,1,0,0,0,0,0,1,4400000
+1701,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,
+1841,,JP Nagar Phase 3,far,0,1,,1,1,1,1,1,0,0,0,0,0,0,1,1,9517000
+1443,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7556000
+null,3,JP Nagar Phase 3,far,,1,no,1,1,1,1,1,0,0,0,0,0,0,1,,7554000
+1173,2,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6228000
+1448,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,,0,1,1,7581000
+2121,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,10800000
+1168,2,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6203000
+1411,3,JP Nagar Phase 3,nearby,0,1,no,1,1,1,1,1,0,,0,0,0,0,1,1,7398000
+1141,2,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,,0,0,,0,0,,1,6070000
+1276,,JP Nagar Phase 3,far,0,,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6733000
+1152,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,
+1550,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,,0,0,0,0,0,0,1,1,8086000
+1389,3,JP Nagar Phase 3,,,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7290000
+1260,3,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6654000
+1529,3,JP Nagar Phase 3,far,0,1,,1,1,1,,1,0,0,,0,0,0,1,1,7980000
+1395,3,JP Nagar Phase 3,far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,7322000
+1136,2,JP Nagar Phase 3,very far,0,1,no,1,1,1,1,1,0,0,0,0,0,0,1,1,6043000
+1270,3,JP Nagar Phase 3,very far,0,1,no,1,1,1,,1,0,0,0,0,0,0,1,1,6706000
+1399,3,JP Nagar Phase 3,far,0,1,no,1,,1,1,1,0,0,0,0,0,0,1,1,7342000
+1650,3,Vidyaranyapura,far,0,0,no,0,0,0,1,0,,0,0,,0,0,0,1,7800000
+1500,3,Vidyaranyapura,very far,0,0,no,0,0,0,1,0,0,0,0,0,0,0,0,1,6800000
+1100,2,Anagalapura Near Hennur Main Road,very far,1,1,yes,0,1,1,1,0,0,1,0,0,0,0,1,1,4455000
+null,2,Anagalapura Near Hennur Main Road,very far,0,1,no,,1,0,1,0,0,1,0,0,0,0,0,1,4100000
+1140,2,Begur,very far,0,1,no,1,1,,1,1,0,1,0,0,0,0,1,1,5700000
+1220,2,Begur,very far,,1,,1,1,1,1,1,0,1,0,0,0,,1,,6000000
+1150,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,5755000
+1350,3,Begur,far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,
+1180,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,5896000
+1130,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,5600000
+1160,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,,1,5800000
+1325,3,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,,0,1,1,6577000
+1090,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,5473000
+1170,2,Begur,very far,0,1,no,1,1,1,1,1,0,1,0,0,0,0,1,1,5849000
+1165,2,Begur,,,1,no,1,1,1,1,1,0,1,0,,0,0,1,1,5825000
+1095,2,Anagalapura Near Hennur Main Road,very far,0,1,no,0,1,0,1,0,0,,0,0,0,0,0,1,4489000
+1160,2,Begur,very far,0,1,,1,1,1,1,,0,1,0,0,0,0,1,1,5800000
+1810,,Kodigehalli,nearby,0,1,yes,1,,1,1,1,0,1,1,0,1,0,1,1,16900000
+1740,3,Kodigehalli,nearby,0,1,yes,1,1,,1,1,0,1,1,0,1,0,,1,14900000
+1630,3,Kodigehalli,nearby,0,1,yes,1,1,1,,1,,1,1,0,1,0,1,1,14100000
+1440,2,Kodigehalli,nearby,0,1,yes,,1,1,1,1,0,1,,0,1,0,1,1,12100000
+1245,2,Kodigehalli,nearby,0,1,yes,1,1,1,1,1,0,1,1,0,1,0,1,1,10700000
+null,4,JP Nagar Phase 1,nearby,,,no,1,1,1,1,1,0,1,1,0,1,0,1,,30000000
